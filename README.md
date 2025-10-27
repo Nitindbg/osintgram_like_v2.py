@@ -1,2 +1,6 @@
-# osintgram_like_v2.py
-Usage Script Run kare । Instagram username dale(Bina @)। command Chune: info: Profile Details। posts: Haal ki post । bio_parse: bio Se gmail/ Phone। email_guess: Gmail Guess + check। phone_search: Google search। Sherlock exit:
+Termux Ke Full (Mobile):
+pkg install git python -y
+git clone [repo-url]
+cd [folder]
+pip install requests sherlock-project
+python osintgram_like_v2.py
